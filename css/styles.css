@@ -1,0 +1,211 @@
+body
+{
+    background-color: lightcyan;
+    margin: 0;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 60;
+    margin-top: 50 auto 0;
+    font-family: cursive;
+    color: lawngreen;
+    
+}
+
+h2{
+   
+        font-size: 40;
+        padding-top:10;
+        font-family:monospace ;
+        color: skyblue
+        
+    
+}
+
+h3{
+    font-size: 30;
+    font-family: serif;
+    color: blueviolet;
+    font-weight: normal;
+    display: inline-block;
+    margin-bottom: 10;
+
+}
+
+p{
+    color: teal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    line-height: 2;
+    text-align: center;
+     
+}
+
+a{
+    margin-top:200;
+    margin-bottom: 100;
+    margin-left: 20;
+    margin-right: 40;
+    font-size: 20;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    border-style: double;
+}
+
+hr{
+    width: 200;
+    text-align: center;
+    background-color: lime;
+    font-style: oblique;
+    border-width: 10;
+    border-color: lightcyan;
+    border-top: 0;
+    border-style: dotted;
+}
+
+.hr2{
+
+    margin-top: 80;
+}
+
+.intro {
+    text-align: center;
+    margin-top: 0;
+}
+
+.div1{
+    background-color:mediumturquoise;
+    
+}
+
+.div2{
+    background-color:mistyrose;
+    
+    
+}
+
+.contact-me{
+   
+    text-align: center;
+    margin-top: 20;
+    text-decoration: none;
+}
+
+.div3{
+    background-color: yellowgreen;
+    padding: 10;
+        
+}
+
+/**
+.footer-link1{
+    
+    font-size: 20;
+    text-align: left;
+    margin-right: 20;
+    align-self: center;
+    padding-top: 40;
+    position: relative;
+}
+
+.footer-link2{
+    font-size: 20;
+    text-align: center;
+    position: relative;
+   
+}
+
+.footer-link3{
+    margin-LEFT: 10%;
+    text-align: right;
+    margin-right: 10;
+    padding-top: 40;
+    font-size: 20;
+}
+**/
+
+.finish{
+    color:orangered;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 30;
+    
+}
+
+
+
+.skill-row{
+
+    margin:auto auto 20 auto;
+    width: 50%;
+
+}
+
+
+.java{
+    text-decoration-line: underline;
+}
+
+.pic1{
+   
+    position: absolute;
+    left:200;
+    height:100;
+    width:100;
+    
+}
+
+.pic2{
+    position: absolute;
+    right: 200;
+    height:100;
+    width:100;
+}
+
+
+
+.logo{
+    float: left;
+    
+    margin-right: 10;
+    height:200;
+    width:200;
+}
+
+.icon{
+    float: right;
+    
+    height:200;
+    width:200;
+    margin-left: 10;
+}
+
+.btn{
+    color: tomato;
+    border-style: groove;
+    background-color: aquamarine;
+    border-width: 10;
+    border-color: crimson;
+    margin-bottom: 30;
+    padding: 5;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    
+}
+
+.btn:hover{
+    color: yellow;
+    background-color: palevioletred;
+}
+
+.info{
+    margin: auto;
+    padding-bottom: 20;
+}
+
+.contact{
+    margin-top: 0;
+}
